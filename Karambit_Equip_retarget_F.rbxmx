@@ -1,0 +1,4876 @@
+<?xml version="1.0" encoding="utf-8"?>
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<External>null</External>
+	<External>nil</External>
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<Item class="KeyframeSequence" referent="RBX00000000000000000000000000000000">
+		<Properties>
+			<BinaryString name="AttributesSerialize" />
+			<float name="AuthoredHipHeight">2</float>
+			<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+			<bool name="DefinesCapabilities">false</bool>
+			<BinaryString name="GuidBinaryString">AAAAAAAAAAAAAAAAAAAAAA==</BinaryString>
+			<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d48</UniqueId>
+			<bool name="Loop">false</bool>
+			<string name="Name">Untitled</string>
+			<token name="Priority">2</token>
+			<int64 name="SourceAssetId">-1</int64>
+			<BinaryString name="Tags" />
+			<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116df</UniqueId>
+		</Properties>
+		<Item class="Keyframe" referent="RBX00000000000000000000000000000001">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d49</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116e0</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX00000000000000000000000000000002">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d4a</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116e1</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX00000000000000000000000000000003">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d4b</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116e2</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000004">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-2.29975285</X>
+							<Y>0.803386691</Y>
+							<Z>2.36569731</Z>
+							<R00>-0.115034516</R00>
+							<R01>-0.433859475</R01>
+							<R02>0.893606746</R02>
+							<R10>-0.0140517838</R10>
+							<R11>0.900199308</R11>
+							<R12>0.435251369</R12>
+							<R20>-0.993262104</R20>
+							<R21>0.0375121617</R21>
+							<R22>-0.109650491</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d4c</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116e3</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000005">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.13547894</X>
+							<Y>-1.4276812</Y>
+							<Z>0.45661938</Z>
+							<R00>0.6797052</R00>
+							<R01>0.49596268</R01>
+							<R02>-0.54039055</R02>
+							<R10>-0.32946035</R10>
+							<R11>0.86467832</R11>
+							<R12>0.37919298</R12>
+							<R20>0.65532953</R20>
+							<R21>-0.079702228</R21>
+							<R22>0.75112641</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d4d</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116e4</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000006">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>2.295006</X>
+							<Y>-2.2438035</Y>
+							<Z>0.98555791</Z>
+							<R00>0.56799495</R00>
+							<R01>0.80795318</R01>
+							<R02>0.15682302</R02>
+							<R10>-0.74414235</R10>
+							<R11>0.5855462</R11>
+							<R12>-0.32153976</R12>
+							<R20>-0.35161617</R20>
+							<R21>0.0659343</R21>
+							<R22>0.93381953</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d4e</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116e5</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX00000000000000000000000000000008">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d50</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.033333335</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116e7</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX00000000000000000000000000000009">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d51</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116e8</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX0000000000000000000000000000000A">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d52</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116e9</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000000B">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-2.29975285</X>
+							<Y>0.803386691</Y>
+							<Z>2.36569731</Z>
+							<R00>-0.115034516</R00>
+							<R01>-0.433859475</R01>
+							<R02>0.893606746</R02>
+							<R10>-0.0140517838</R10>
+							<R11>0.900199308</R11>
+							<R12>0.435251369</R12>
+							<R20>-0.993262104</R20>
+							<R21>0.0375121617</R21>
+							<R22>-0.109650491</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d53</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116ea</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000000C">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.13547894</X>
+							<Y>-1.4276812</Y>
+							<Z>0.45661938</Z>
+							<R00>0.6797052</R00>
+							<R01>0.49596268</R01>
+							<R02>-0.54039055</R02>
+							<R10>-0.32946035</R10>
+							<R11>0.86467832</R11>
+							<R12>0.37919298</R12>
+							<R20>0.65532953</R20>
+							<R21>-0.079702228</R21>
+							<R22>0.75112641</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d54</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116eb</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000000D">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>2.295006</X>
+							<Y>-2.2438035</Y>
+							<Z>0.98555791</Z>
+							<R00>0.56799495</R00>
+							<R01>0.80795318</R01>
+							<R02>0.15682302</R02>
+							<R10>-0.74414235</R10>
+							<R11>0.5855462</R11>
+							<R12>-0.32153976</R12>
+							<R20>-0.35161617</R20>
+							<R21>0.0659343</R21>
+							<R22>0.93381953</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d55</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116ec</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX0000000000000000000000000000000F">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d57</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.06666667</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116ee</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX00000000000000000000000000000010">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d58</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116ef</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX00000000000000000000000000000011">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d59</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116f0</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000012">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-2.29975285</X>
+							<Y>0.803386691</Y>
+							<Z>2.36569731</Z>
+							<R00>-0.115034516</R00>
+							<R01>-0.433859475</R01>
+							<R02>0.893606746</R02>
+							<R10>-0.0140517838</R10>
+							<R11>0.900199308</R11>
+							<R12>0.435251369</R12>
+							<R20>-0.993262104</R20>
+							<R21>0.0375121617</R21>
+							<R22>-0.109650491</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d5a</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116f1</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000013">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.13547894</X>
+							<Y>-1.4276812</Y>
+							<Z>0.45661938</Z>
+							<R00>0.6797052</R00>
+							<R01>0.49596268</R01>
+							<R02>-0.54039055</R02>
+							<R10>-0.32946035</R10>
+							<R11>0.86467832</R11>
+							<R12>0.37919298</R12>
+							<R20>0.65532953</R20>
+							<R21>-0.079702228</R21>
+							<R22>0.75112641</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d5b</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116f2</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000014">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>2.295006</X>
+							<Y>-2.2438035</Y>
+							<Z>0.98555791</Z>
+							<R00>0.56799495</R00>
+							<R01>0.80795318</R01>
+							<R02>0.15682302</R02>
+							<R10>-0.74414235</R10>
+							<R11>0.5855462</R11>
+							<R12>-0.32153976</R12>
+							<R20>-0.35161617</R20>
+							<R21>0.0659343</R21>
+							<R22>0.93381953</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d5c</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116f3</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX00000000000000000000000000000016">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d5e</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.1</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116f5</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX00000000000000000000000000000017">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d5f</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116f6</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX00000000000000000000000000000018">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d60</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116f7</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000019">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-1.33938317</X>
+							<Y>0.690738179</Y>
+							<Z>1.94628921</Z>
+							<R00>0.141617263</R00>
+							<R01>-0.373252723</R01>
+							<R02>0.916857108</R02>
+							<R10>0.0327616466</R10>
+							<R11>0.927451569</R11>
+							<R12>0.372505384</R12>
+							<R20>-0.989379212</R20>
+							<R21>-0.0227154443</R21>
+							<R22>0.143571527</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d61</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116f8</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000001A">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.14604202</X>
+							<Y>-1.4312445</Y>
+							<Z>0.45642948</Z>
+							<R00>0.68158013</R00>
+							<R01>0.49319294</R01>
+							<R02>-0.54056388</R02>
+							<R10>-0.32884949</R10>
+							<R11>0.86638099</R11>
+							<R12>0.37582183</R12>
+							<R20>0.65368688</R20>
+							<R21>-0.07838852</R21>
+							<R22>0.75269425</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d62</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116f9</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000001B">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>1.9330027</X>
+							<Y>-1.3836093</Y>
+							<Z>0.81257439</Z>
+							<R00>0.31650037</R00>
+							<R01>0.94033092</R01>
+							<R02>0.1249214</R02>
+							<R10>-0.88250625</R10>
+							<R11>0.34017962</R11>
+							<R12>-0.32474709</R12>
+							<R20>-0.34786546</R20>
+							<R21>-0.0074613681</R21>
+							<R22>0.93751478</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d63</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116fa</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX0000000000000000000000000000001D">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d65</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.13333334</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116fc</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX0000000000000000000000000000001E">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d66</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116fd</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX0000000000000000000000000000001F">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d67</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116fe</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000020">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.56935368</X>
+							<Y>0.520123643</Y>
+							<Z>1.63709086</Z>
+							<R00>0.12021899</R00>
+							<R01>-0.305548376</R01>
+							<R02>0.944556819</R02>
+							<R10>-0.0352345537</R10>
+							<R11>0.949544666</R11>
+							<R12>0.311646358</R12>
+							<R20>-0.992121928</R20>
+							<R21>-0.0707468485</R21>
+							<R22>0.10338744</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d68</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000116ff</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000021">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.17528927</X>
+							<Y>-1.4398004</Y>
+							<Z>0.45569038</Z>
+							<R00>0.68676478</R00>
+							<R01>0.48541927</R01>
+							<R02>-0.54103816</R02>
+							<R10>-0.32711542</R10>
+							<R11>0.87109351</R11>
+							<R12>0.36632192</R12>
+							<R20>0.64911449</R20>
+							<R21>-0.074595049</R21>
+							<R22>0.75702441</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d69</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011700</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000022">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>1.4753726</X>
+							<Y>-0.59976864</Y>
+							<Z>0.61148274</Z>
+							<R00>0.28517431</R00>
+							<R01>0.95549953</R01>
+							<R02>0.075475022</R02>
+							<R10>-0.89912689</R10>
+							<R11>0.2939643</R11>
+							<R12>-0.32427761</R12>
+							<R20>-0.33203402</R20>
+							<R21>0.024614003</R21>
+							<R22>0.94294631</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d6a</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011701</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX00000000000000000000000000000024">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d6c</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.16666667</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011703</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX00000000000000000000000000000025">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d6d</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011704</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX00000000000000000000000000000026">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d6e</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011705</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000027">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.292415344</X>
+							<Y>0.392159012</Y>
+							<Z>1.5626721</Z>
+							<R00>0.0366435019</R00>
+							<R01>-0.238290432</R01>
+							<R02>0.970502408</R02>
+							<R10>-0.150746954</R10>
+							<R11>0.958723581</R11>
+							<R12>0.241090131</R12>
+							<R20>-0.987893015</R20>
+							<R21>-0.155134669</R21>
+							<R22>-0.000790567495</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d6f</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011706</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000028">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.21957392</X>
+							<Y>-1.4501486</Y>
+							<Z>0.45415226</Z>
+							<R00>0.69458425</R00>
+							<R01>0.47342354</R01>
+							<R02>-0.54168534</R02>
+							<R10>-0.32436013</R10>
+							<R11>0.87816697</R11>
+							<R12>0.35158694</R12>
+							<R20>0.64213967</R20>
+							<R21>-0.06850569</R21>
+							<R22>0.7635206</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d70</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011707</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000029">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>1.1204262</X>
+							<Y>-0.29215553</Y>
+							<Z>0.45643428</Z>
+							<R00>0.28203735</R00>
+							<R01>0.95925307</R01>
+							<R02>-0.016985336</R02>
+							<R10>-0.91000724</R10>
+							<R11>0.26186681</R11>
+							<R12>-0.3214229</R12>
+							<R20>-0.30387801</R20>
+							<R21>0.10611006</R21>
+							<R22>0.94678342</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d71</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011708</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX0000000000000000000000000000002B">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d73</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.2</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001170a</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX0000000000000000000000000000002C">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d74</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001170b</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX0000000000000000000000000000002D">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d75</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001170c</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000002E">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.215272811</X>
+							<Y>0.281953005</Y>
+							<Z>1.59040641</Z>
+							<R00>-0.119575433</R00>
+							<R01>-0.218388142</R01>
+							<R02>0.968508304</R02>
+							<R10>-0.243681456</R10>
+							<R11>0.952123579</R11>
+							<R12>0.184607797</R12>
+							<R20>-0.962455746</R20>
+							<R21>-0.213932956</R21>
+							<R22>-0.16706773</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d76</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001170d</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000002F">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.27524194</X>
+							<Y>-1.4590892</Y>
+							<Z>0.45156389</Z>
+							<R00>0.7043556</R00>
+							<R01>0.45798108</R01>
+							<R02>-0.54234368</R02>
+							<R10>-0.32066393</R10>
+							<R11>0.88691539</R11>
+							<R12>0.33249953</R12>
+							<R20>0.63329136</R20>
+							<R21>-0.060287837</R21>
+							<R22>0.7715618</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d77</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001170e</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000030">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.8538208</X>
+							<Y>-0.20486246</Y>
+							<Z>0.30654335</Z>
+							<R00>0.30266115</R00>
+							<R01>0.94841623</R01>
+							<R02>-0.094354987</R02>
+							<R10>-0.9090758</R10>
+							<R11>0.25752369</R11>
+							<R12>-0.32751012</R12>
+							<R20>-0.28631726</R20>
+							<R21>0.18490042</R21>
+							<R22>0.94012463</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d78</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001170f</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX00000000000000000000000000000032">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d7a</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.23333333</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011711</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX00000000000000000000000000000033">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d7b</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011712</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX00000000000000000000000000000034">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d7c</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011713</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000035">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.0691027</X>
+							<Y>-0.216344925</Y>
+							<Z>1.66047737</Z>
+							<R00>-0.333776377</R00>
+							<R01>-0.620049168</R01>
+							<R02>0.710022788</R02>
+							<R10>-0.298565319</R10>
+							<R11>0.783976833</R11>
+							<R12>0.544278492</R12>
+							<R20>-0.894120842</R20>
+							<R21>-0.030320877</R21>
+							<R22>-0.446798124</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d7d</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011714</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000036">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.33864599</X>
+							<Y>-1.4634213</Y>
+							<Z>0.44767377</Z>
+							<R00>0.71539837</R00>
+							<R01>0.43988359</R01>
+							<R02>-0.54286981</R02>
+							<R10>-0.316127</R10>
+							<R11>0.89665473</R11>
+							<R12>0.30995816</R12>
+							<R20>0.62311226</R20>
+							<R21>-0.050127767</R21>
+							<R22>0.78052437</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d7e</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011715</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000037">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.66379929</X>
+							<Y>-0.13089976</Y>
+							<Z>0.13766672</Z>
+							<R00>0.3465589</R00>
+							<R01>0.93109322</R01>
+							<R02>-0.11385255</R02>
+							<R10>-0.89033222</R10>
+							<R11>0.28829488</R11>
+							<R12>-0.35241279</R12>
+							<R20>-0.295306</R20>
+							<R21>0.22349839</R21>
+							<R22>0.92889333</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d7f</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011716</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX00000000000000000000000000000039">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d81</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.26666668</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011718</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX0000000000000000000000000000003A">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d82</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011719</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX0000000000000000000000000000003B">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d83</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001171a</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000003C">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>1.10880899</X>
+							<Y>-0.642282598</Y>
+							<Z>1.34393552</Z>
+							<R00>-0.466364155</R00>
+							<R01>-0.796553166</R01>
+							<R02>-0.384717466</R02>
+							<R10>-0.490482102</R10>
+							<R11>-0.129082323</R11>
+							<R12>0.861838188</R12>
+							<R20>-0.736160161</R20>
+							<R21>0.59062747</R21>
+							<R22>-0.330495703</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d84</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001171b</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000003D">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.40612417</X>
+							<Y>-1.4599452</Y>
+							<Z>0.44223118</Z>
+							<R00>0.7270487</R00>
+							<R01>0.41995159</R01>
+							<R02>-0.54317665</R02>
+							<R10>-0.31090063</R10>
+							<R11>0.90673983</R11>
+							<R12>0.28489247</R12>
+							<R20>0.61216092</R20>
+							<R21>-0.038256731</R21>
+							<R22>0.78980732</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d85</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001171c</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000003E">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.54893881</X>
+							<Y>-0.058949158</Y>
+							<Z>-0.0073547624</Z>
+							<R00>0.40913913</R00>
+							<R01>0.90747166</R01>
+							<R02>-0.09539599</R02>
+							<R10>-0.85550648</R10>
+							<R11>0.34513342</R11>
+							<R12>-0.3859944</R12>
+							<R20>-0.31735468</R20>
+							<R21>0.23953725</R21>
+							<R22>0.91755539</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d86</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001171d</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX00000000000000000000000000000040">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d88</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.30000001</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001171f</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX00000000000000000000000000000041">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d89</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011720</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX00000000000000000000000000000042">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d8a</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011721</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000043">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>1.56317336</X>
+							<Y>-0.263870414</Y>
+							<Z>0.768302576</Z>
+							<R00>-0.409144585</R00>
+							<R01>-0.135865413</R01>
+							<R02>-0.902297788</R02>
+							<R10>-0.6538591</R10>
+							<R11>-0.646072701</R11>
+							<R12>0.393774482</R12>
+							<R20>-0.636450301</R20>
+							<R21>0.751086316</R21>
+							<R22>0.175500311</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d8b</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011722</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000044">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.47403347</X>
+							<Y>-1.4454612</Y>
+							<Z>0.43498516</Z>
+							<R00>0.73866904</R00>
+							<R01>0.39903957</R01>
+							<R02>-0.54326379</R02>
+							<R10>-0.30520868</R10>
+							<R11>0.91659385</R11>
+							<R12>0.25827041</R12>
+							<R20>0.60101229</R20>
+							<R21>-0.024967499</R21>
+							<R22>0.79884982</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d8c</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011723</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000045">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.51039129</X>
+							<Y>-0.02661014</Y>
+							<Z>-0.068936326</Z>
+							<R00>0.48461387</R00>
+							<R01>0.87148947</R01>
+							<R02>-0.075203784</R02>
+							<R10>-0.81004709</R10>
+							<R11>0.41467237</R11>
+							<R12>-0.41457286</R12>
+							<R20>-0.33011094</R20>
+							<R21>0.2618264</R21>
+							<R22>0.90690339</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d8d</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011724</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX00000000000000000000000000000047">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d8f</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.33333334</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011726</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX00000000000000000000000000000048">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d90</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011727</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX00000000000000000000000000000049">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d91</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011728</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000004A">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>1.52650559</X>
+							<Y>-0.0945329285</Y>
+							<Z>0.63530785</Z>
+							<R00>-0.381885278</R00>
+							<R01>0.195015802</R01>
+							<R02>-0.903400504</R02>
+							<R10>-0.773839578</R10>
+							<R11>-0.601905702</R11>
+							<R12>0.197184768</R12>
+							<R20>-0.505307769</R20>
+							<R21>0.774389025</R21>
+							<R22>0.380769873</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d92</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011729</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000004B">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.5387193</X>
+							<Y>-1.4167676</Y>
+							<Z>0.42568398</Z>
+							<R00>0.74965787</R00>
+							<R01>0.37803242</R01>
+							<R02>-0.54323542</R02>
+							<R10>-0.29935879</R10>
+							<R11>0.92573154</R11>
+							<R12>0.23109655</R12>
+							<R20>0.5902521</R20>
+							<R21>-0.010621062</R21>
+							<R22>0.80714911</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d93</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001172a</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000004C">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.53363794</X>
+							<Y>-0.072477639</Y>
+							<Z>-0.03894138</Z>
+							<R00>0.56856292</R00>
+							<R01>0.81837124</R01>
+							<R02>-0.083693735</R02>
+							<R10>-0.76091552</R10>
+							<R11>0.48450866</R11>
+							<R12>-0.43157732</R12>
+							<R20>-0.3126401</R20>
+							<R21>0.30906272</R21>
+							<R22>0.89818507</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d94</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001172b</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX0000000000000000000000000000004E">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d96</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.36666667</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001172d</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX0000000000000000000000000000004F">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d97</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001172e</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX00000000000000000000000000000050">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d98</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001172f</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000051">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>1.28239483</X>
+							<Y>0.212850539</Y>
+							<Z>0.488958774</Z>
+							<R00>-0.265873695</R00>
+							<R01>0.623971718</R01>
+							<R02>-0.734826833</R02>
+							<R10>-0.876529452</R10>
+							<R11>-0.473758111</R11>
+							<R12>-0.0851432414</R12>
+							<R20>-0.401257147</R20>
+							<R21>0.621460013</R21>
+							<R22>0.672889407</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d99</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011730</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000052">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.59653091</X>
+							<Y>-1.3706646</Y>
+							<Z>0.41407779</Z>
+							<R00>0.75945473</R00>
+							<R01>0.35783616</R01>
+							<R02>-0.54330635</R02>
+							<R10>-0.29374272</R10>
+							<R11>0.93377423</R11>
+							<R12>0.20440379</R12>
+							<R20>0.58046854</R20>
+							<R21>0.0043568392</R21>
+							<R22>0.81427103</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d9a</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011731</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000053">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.59425741</X>
+							<Y>-0.18398139</Y>
+							<Z>0.036930066</Z>
+							<R00>0.65192229</R00>
+							<R01>0.74986827</R01>
+							<R02>-0.11267229</R02>
+							<R10>-0.70862448</R10>
+							<R11>0.54957533</R11>
+							<R12>-0.4425137</R12>
+							<R20>-0.26990509</R20>
+							<R21>0.36832687</R21>
+							<R22>0.88965529</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d9b</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011732</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX00000000000000000000000000000055">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d9d</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.40000001</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011734</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX00000000000000000000000000000056">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d9e</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011735</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX00000000000000000000000000000057">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010d9f</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011736</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000058">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.330719102</X>
+							<Y>0.76849887</Y>
+							<Z>0.464714564</Z>
+							<R00>-0.079207625</R00>
+							<R01>0.98527631</R01>
+							<R02>0.151514838</R02>
+							<R10>-0.823548609</R10>
+							<R11>0.0209647706</R11>
+							<R12>-0.566858154</R12>
+							<R20>-0.561688384</R20>
+							<R21>-0.169679322</R21>
+							<R22>0.809762364</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010da0</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011737</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000059">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.64381409</X>
+							<Y>-1.3039525</Y>
+							<Z>0.39991382</Z>
+							<R00>0.7675395</R00>
+							<R01>0.33936626</R01>
+							<R02>-0.54379565</R02>
+							<R10>-0.28882739</R10>
+							<R11>0.94045246</R11>
+							<R12>0.17924273</R12>
+							<R20>0.57224286</R20>
+							<R21>0.019487165</R21>
+							<R22>0.81985265</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010da1</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011738</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000005A">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.67857742</X>
+							<Y>-0.32197365</Y>
+							<Z>0.13750847</Z>
+							<R00>0.72499847</R00>
+							<R01>0.6741572</R01>
+							<R02>-0.14102952</R02>
+							<R10>-0.65273052</R10>
+							<R11>0.60717422</R11>
+							<R12>-0.45308104</R12>
+							<R20>-0.21981831</R20>
+							<R21>0.42053729</R21>
+							<R22>0.88024342</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010da2</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011739</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX0000000000000000000000000000005C">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010da4</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.43333334</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001173b</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX0000000000000000000000000000005D">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010da5</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001173c</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX0000000000000000000000000000005E">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010da6</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001173d</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000005F">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.358375115</X>
+							<Y>0.768379865</Y>
+							<Z>0.900356661</Z>
+							<R00>-0.0902116593</R00>
+							<R01>0.603308164</R01>
+							<R02>0.792389498</R02>
+							<R10>-0.745243134</R10>
+							<R11>0.486904097</R11>
+							<R12>-0.455562369</R12>
+							<R20>-0.660662189</R20>
+							<R21>-0.63161987</R21>
+							<R22>0.40568684</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010da7</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001173e</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000060">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.67691803</X>
+							<Y>-1.2134304</Y>
+							<Z>0.38294223</Z>
+							<R00>0.77342153</R00>
+							<R01>0.32353672</R01>
+							<R02>-0.54510844</R02>
+							<R10>-0.28513682</R10>
+							<R11>0.94559532</R11>
+							<R12>0.15667316</R12>
+							<R20>0.56614149</R20>
+							<R21>0.034256067</R21>
+							<R22>0.823596</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010da8</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001173f</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000061">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.77293032</X>
+							<Y>-0.44730654</Y>
+							<Z>0.24162287</Z>
+							<R00>0.78235042</R00>
+							<R01>0.60530829</R01>
+							<R02>-0.14673066</R02>
+							<R10>-0.59458196</R10>
+							<R11>0.65568227</R11>
+							<R12>-0.46535265</R12>
+							<R20>-0.1854732</R20>
+							<R21>0.45131224</R21>
+							<R22>0.87287855</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010da9</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011740</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX00000000000000000000000000000063">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dab</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.46666667</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011742</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX00000000000000000000000000000064">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dac</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011743</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX00000000000000000000000000000065">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dad</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011744</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000066">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.599209379</X>
+							<Y>0.508904628</Y>
+							<Z>1.33421396</Z>
+							<R00>-0.116788515</R00>
+							<R01>0.0117133515</R01>
+							<R02>0.99308773</R02>
+							<R10>-0.818839024</R10>
+							<R11>0.564714472</R11>
+							<R12>-0.102957362</R12>
+							<R20>-0.562016989</R20>
+							<R21>-0.825203225</R21>
+							<R22>-0.0563608151</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dae</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011745</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000067">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.69369888</X>
+							<Y>-1.0991518</Y>
+							<Z>0.36329836</Z>
+							<R00>0.77698231</R00>
+							<R01>0.31084663</R01>
+							<R02>-0.54742396</R02>
+							<R10>-0.2831634</R10>
+							<R11>0.94922239</R11>
+							<R12>0.13709608</R12>
+							<R20>0.56224298</R20>
+							<R21>0.048489239</R21>
+							<R22>0.8255493</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010daf</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011746</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000068">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.86364007</X>
+							<Y>-0.52083206</Y>
+							<Z>0.32810408</Z>
+							<R00>0.82160962</R00>
+							<R01>0.55981696</R01>
+							<R02>-0.10753067</R02>
+							<R10>-0.53641236</R10>
+							<R11>0.69540751</R11>
+							<R12>-0.47819489</R12>
+							<R20>-0.19292398</R20>
+							<R21>0.45057026</R21>
+							<R22>0.87164617</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010db0</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011747</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX0000000000000000000000000000006A">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010db2</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.5</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011749</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX0000000000000000000000000000006B">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010db3</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001174a</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX0000000000000000000000000000006C">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010db4</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001174b</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000006D">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.385171226</X>
+							<Y>0.331735877</Y>
+							<Z>1.75278098</Z>
+							<R00>-0.155593438</R00>
+							<R01>-0.609869839</R01>
+							<R02>0.777077513</R02>
+							<R10>-0.889901418</R10>
+							<R11>0.428014082</R11>
+							<R12>0.157732087</R12>
+							<R20>-0.428796161</R20>
+							<R21>-0.666980303</R21>
+							<R22>-0.609320217</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010db5</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001174c</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000006E">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.6980477</X>
+							<Y>-0.97418088</Y>
+							<Z>0.34266573</Z>
+							<R00>0.77952814</R00>
+							<R01>0.30017292</R01>
+							<R02>-0.54975653</R02>
+							<R10>-0.2831009</R10>
+							<R11>0.95177191</R11>
+							<R12>0.11825438</R12>
+							<R20>0.5587396</R20>
+							<R21>0.063453972</R21>
+							<R22>0.82691222</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010db6</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001174d</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000006F">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.93517309</X>
+							<Y>-0.51497686</Y>
+							<Z>0.37989426</Z>
+							<R00>0.84505236</R00>
+							<R01>0.53437525</R01>
+							<R02>-0.018154921</R02>
+							<R10>-0.47403494</R10>
+							<R11>0.73305982</R11>
+							<R12>-0.48776448</R12>
+							<R20>-0.24734062</R20>
+							<R21>0.42079258</R21>
+							<R22>0.87278646</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010db7</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001174e</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX00000000000000000000000000000071">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010db9</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.53333336</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011750</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX00000000000000000000000000000072">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dba</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011751</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX00000000000000000000000000000073">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dbb</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011752</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000074">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.191644419</X>
+							<Y>0.438614352</Y>
+							<Z>1.83367881</Z>
+							<R00>-0.370645858</R00>
+							<R01>-0.725700461</R01>
+							<R02>0.579638239</R02>
+							<R10>-0.85474867</R10>
+							<R11>0.510678736</R11>
+							<R12>0.0928005376</R12>
+							<R20>-0.363354316</R20>
+							<R21>-0.461048879</R21>
+							<R22>-0.809572462</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dbc</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011753</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000075">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.69536972</X>
+							<Y>-0.85483682</Y>
+							<Z>0.32311434</Z>
+							<R00>0.78270245</R00>
+							<R01>0.2900117</R01>
+							<R02>-0.55069977</R02>
+							<R10>-0.2849454</R10>
+							<R11>0.95360267</R11>
+							<R12>0.09720096</R12>
+							<R20>0.55333823</R20>
+							<R21>0.080839947</R21>
+							<R22>0.82902455</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dbd</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011754</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000076">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.96453875</X>
+							<Y>-0.44846731</Y>
+							<Z>0.39638051</Z>
+							<R00>0.88804919</R00>
+							<R01>0.45625833</R01>
+							<R02>0.056544192</R02>
+							<R10>-0.37362322</R10>
+							<R11>0.78787953</R11>
+							<R12>-0.48954234</R12>
+							<R20>-0.26790777</R20>
+							<R21>0.41361138</R21>
+							<R22>0.87014437</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dbe</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011755</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX00000000000000000000000000000078">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dc0</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.56666666</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011757</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX00000000000000000000000000000079">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dc1</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011758</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX0000000000000000000000000000007A">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dc2</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011759</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000007B">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.0711491092</X>
+							<Y>0.650074782</Y>
+							<Z>1.88623734</Z>
+							<R00>-0.644284518</R00>
+							<R01>-0.618173803</R01>
+							<R02>0.450287252</R02>
+							<R10>-0.736306917</R10>
+							<R11>0.660555866</R11>
+							<R12>-0.146690395</R12>
+							<R20>-0.206759726</R20>
+							<R21>-0.426059968</R21>
+							<R22>-0.880751565</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dc3</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001175a</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000007C">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.69106305</X>
+							<Y>-0.75743806</Y>
+							<Z>0.30671316</Z>
+							<R00>0.78812099</R00>
+							<R01>0.27892029</R01>
+							<R02>-0.54869753</R02>
+							<R10>-0.28852373</R10>
+							<R11>0.95484012</R11>
+							<R12>0.070954695</R12>
+							<R20>0.54370904</R20>
+							<R21>0.1023914</R21>
+							<R22>0.83300459</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dc4</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001175b</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000007D">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.93227005</X>
+							<Y>-0.35903811</Y>
+							<Z>0.38658905</Z>
+							<R00>0.96084082</R00>
+							<R01>0.269032</R01>
+							<R02>0.066383056</R02>
+							<R10>-0.20380229</R10>
+							<R11>0.84841645</R11>
+							<R12>-0.48852247</R12>
+							<R20>-0.18774864</R20>
+							<R21>0.4558633</R21>
+							<R22>0.87002248</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dc5</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001175c</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX0000000000000000000000000000007F">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dc7</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.60000002</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001175e</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX00000000000000000000000000000080">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dc8</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001175f</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX00000000000000000000000000000081">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dc9</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011760</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000082">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.24943493</X>
+							<Y>0.512640755</Y>
+							<Z>1.88901819</Z>
+							<R00>-0.761733232</R00>
+							<R01>-0.639615754</R01>
+							<R02>0.10321904</R02>
+							<R10>-0.644264158</R10>
+							<R11>0.764627897</R11>
+							<R12>-0.0163668505</R12>
+							<R20>-0.0684556623</R20>
+							<R21>-0.0789675021</R21>
+							<R22>-0.994523985</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dca</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011761</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000083">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.69053268</X>
+							<Y>-0.69830215</Y>
+							<Z>0.29553407</Z>
+							<R00>0.7973215</R00>
+							<R01>0.2655853</R01>
+							<R02>-0.54198062</R02>
+							<R10>-0.29339033</R10>
+							<R11>0.95529544</R11>
+							<R12>0.036506951</R12>
+							<R20>0.5274474</R20>
+							<R21>0.12990409</R21>
+							<R22>0.83959764</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dcb</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011762</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000084">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.84908307</X>
+							<Y>-0.31415966</Y>
+							<Z>0.37399197</Z>
+							<R00>0.99545932</R00>
+							<R01>0.077970035</R01>
+							<R02>0.054602895</R02>
+							<R10>-0.041905392</R10>
+							<R11>0.87401938</R11>
+							<R12>-0.48408067</R12>
+							<R20>-0.085467771</R20>
+							<R21>0.47959444</R21>
+							<R22>0.87331808</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dcc</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011763</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX00000000000000000000000000000086">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dce</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.63333333</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011765</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX00000000000000000000000000000087">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dcf</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011766</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX00000000000000000000000000000088">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dd0</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011767</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000089">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.355488982</X>
+							<Y>0.483694046</Y>
+							<Z>1.75724694</Z>
+							<R00>-0.737198728</R00>
+							<R01>-0.670918487</R01>
+							<R02>-0.0800401119</R02>
+							<R10>-0.672308834</R10>
+							<R11>0.740171653</R11>
+							<R12>-0.0121142714</R12>
+							<R20>0.0673711106</R20>
+							<R21>0.0448810489</R21>
+							<R22>-0.996718027</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dd1</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011768</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000008A">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.69773114</X>
+							<Y>-0.68831611</Y>
+							<Z>0.29096991</Z>
+							<R00>0.81100023</R00>
+							<R01>0.24950109</R01>
+							<R02>-0.52917671</R02>
+							<R10>-0.29859051</R10>
+							<R11>0.95435071</R11>
+							<R12>-0.0076446449</R12>
+							<R20>0.50311285</R20>
+							<R21>0.16420695</R21>
+							<R22>0.8484773</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dd2</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011769</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000008B">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.73516852</X>
+							<Y>-0.36846918</Y>
+							<Z>0.37830067</Z>
+							<R00>0.99782997</R00>
+							<R01>0.0084961085</R01>
+							<R02>0.065293126</R02>
+							<R10>0.022542691</R10>
+							<R11>0.88763016</R11>
+							<R12>-0.46000507</R12>
+							<R20>-0.061864395</R20>
+							<R21>0.46047878</R21>
+							<R22>0.88551235</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dd3</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001176a</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX0000000000000000000000000000008D">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dd5</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.66666669</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001176c</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX0000000000000000000000000000008E">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dd6</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001176d</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX0000000000000000000000000000008F">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dd7</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001176e</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000090">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.172278101</X>
+							<Y>0.516926412</Y>
+							<Z>1.55607147</Z>
+							<R00>-0.779733537</R00>
+							<R01>-0.62603761</R01>
+							<R02>-0.00961889065</R02>
+							<R10>-0.625537884</R10>
+							<R11>0.778269773</R11>
+							<R12>0.0547587033</R12>
+							<R20>-0.0267949159</R20>
+							<R21>0.0487141779</R21>
+							<R22>-0.998453285</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dd8</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001176f</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000091">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.71087271</X>
+							<Y>-0.71663815</Y>
+							<Z>0.29170331</Z>
+							<R00>0.82708305</R00>
+							<R01>0.2325716</R01>
+							<R02>-0.51170719</R02>
+							<R10>-0.30275512</R10>
+							<R11>0.95136523</R11>
+							<R12>-0.056952555</R12>
+							<R20>0.47357491</R20>
+							<R21>0.20202643</R21>
+							<R22>0.8572703</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dd9</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011770</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000092">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.60979468</X>
+							<Y>-0.49553525</Y>
+							<Z>0.39739984</Z>
+							<R00>0.99450034</R00>
+							<R01>0.024030434</R01>
+							<R02>0.10193933</R02>
+							<R10>0.020655213</R10>
+							<R11>0.90920436</R11>
+							<R12>-0.4158375</R12>
+							<R20>-0.10267644</R20>
+							<R21>0.41565609</R21>
+							<R22>0.90370768</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dda</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011771</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX00000000000000000000000000000094">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010ddc</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.69999999</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011773</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX00000000000000000000000000000095">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010ddd</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011774</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX00000000000000000000000000000096">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dde</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011775</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000097">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.0887020575</X>
+							<Y>0.584267956</Y>
+							<Z>1.34972949</Z>
+							<R00>-0.82118471</R00>
+							<R01>-0.568077089</R01>
+							<R02>0.0542595015</R02>
+							<R10>-0.56383548</R10>
+							<R11>0.82234813</R11>
+							<R12>0.0763747579</R12>
+							<R20>-0.0880069497</R20>
+							<R21>0.0321243513</R21>
+							<R22>-0.995601729</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010ddf</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011776</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000098">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.72672284</X>
+							<Y>-0.76699448</Y>
+							<Z>0.29574314</Z>
+							<R00>0.84300369</R00>
+							<R01>0.21697243</R01>
+							<R02>-0.49220711</R02>
+							<R10>-0.30509281</R10>
+							<R11>0.94648212</R11>
+							<R12>-0.10530906</R12>
+							<R20>0.44301599</R20>
+							<R21>0.23894474</R21>
+							<R22>0.86408472</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010de0</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011777</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX00000000000000000000000000000099">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.49199295</X>
+							<Y>-0.64865941</Y>
+							<Z>0.42371649</Z>
+							<R00>0.98621088</R00>
+							<R01>0.049401339</R01>
+							<R02>0.1579482</R02>
+							<R10>0.010527626</R10>
+							<R11>0.9337464</R11>
+							<R12>-0.35778049</R12>
+							<R20>-0.16515839</R20>
+							<R21>0.35450983</R21>
+							<R22>0.92035073</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010de1</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011778</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX0000000000000000000000000000009B">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010de3</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.73333335</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001177a</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX0000000000000000000000000000009C">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010de4</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001177b</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX0000000000000000000000000000009D">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010de5</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001177c</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000009E">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.34642162</X>
+							<Y>0.650218835</Y>
+							<Z>1.20050275</Z>
+							<R00>-0.863826109</R00>
+							<R01>-0.499206162</R01>
+							<R02>0.0678060596</R02>
+							<R10>-0.49904857</R10>
+							<R11>0.866332449</R11>
+							<R12>0.0204600074</R12>
+							<R20>-0.0689563515</R20>
+							<R21>-0.0161646285</R21>
+							<R22>-0.99748871</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010de6</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001177d</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX0000000000000000000000000000009F">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.74204254</X>
+							<Y>-0.82311171</Y>
+							<Z>0.30109498</Z>
+							<R00>0.85654783</R00>
+							<R01>0.20439689</R01>
+							<R02>-0.4738647</R02>
+							<R10>-0.30567548</R10>
+							<R11>0.94075948</R11>
+							<R12>-0.14674518</R12>
+							<R20>0.41579846</R20>
+							<R21>0.2705431</R21>
+							<R22>0.86828458</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010de7</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001177e</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000A0">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.39357758</X>
+							<Y>-0.78646481</Y>
+							<Z>0.44998926</Z>
+							<R00>0.97418356</R00>
+							<R01>0.078765608</R01>
+							<R02>0.21157117</R02>
+							<R10>-0.01276384</R10>
+							<R11>0.95487934</R11>
+							<R12>-0.29671967</R12>
+							<R20>-0.22539623</R20>
+							<R21>0.28635898</R21>
+							<R22>0.93123311</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010de8</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001177f</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX000000000000000000000000000000A2">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dea</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.76666665</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011781</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX000000000000000000000000000000A3">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010deb</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011782</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX000000000000000000000000000000A4">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dec</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011783</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000A5">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.507581774</X>
+							<Y>0.723137324</Y>
+							<Z>1.09054982</Z>
+							<R00>-0.893416547</R00>
+							<R01>-0.445908832</R01>
+							<R02>0.0545177708</R02>
+							<R10>-0.448641316</R10>
+							<R11>0.891859161</R11>
+							<R12>-0.0575170131</R12>
+							<R20>-0.0229748292</R20>
+							<R21>-0.0758455757</R21>
+							<R22>-0.996854857</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010ded</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011784</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000A6">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.7536087</X>
+							<Y>-0.86871612</Y>
+							<Z>0.30576795</Z>
+							<R00>0.86587709</R00>
+							<R01>0.19608568</R01>
+							<R02>-0.46022519</R02>
+							<R10>-0.30528048</R10>
+							<R11>0.93593329</R11>
+							<R12>-0.17559296</R12>
+							<R20>0.39630878</R20>
+							<R21>0.29253972</R21>
+							<R22>0.87026423</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dee</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011785</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000A7">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.29748917</X>
+							<Y>-0.88886154</Y>
+							<Z>0.47019386</Z>
+							<R00>0.96144158</R00>
+							<R01>0.11829244</R01>
+							<R02>0.24826807</R02>
+							<R10>-0.054306887</R10>
+							<R11>0.9666512</R11>
+							<R12>-0.25027233</R12>
+							<R20>-0.26959395</R20>
+							<R21>0.22713955</R21>
+							<R22>0.9358027</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010def</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011786</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX000000000000000000000000000000A9">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010df1</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.80000001</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011788</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX000000000000000000000000000000AA">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010df2</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011789</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX000000000000000000000000000000AB">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010df3</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001178a</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000AC">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.584216539</X>
+							<Y>0.757241768</Y>
+							<Z>0.970491117</Z>
+							<R00>-0.905559887</R00>
+							<R01>-0.423161511</R01>
+							<R02>0.0299270064</R02>
+							<R10>-0.423987743</R10>
+							<R11>0.900486168</R11>
+							<R12>-0.0967422121</R12>
+							<R20>0.0139887253</R20>
+							<R21>-0.100294551</R21>
+							<R22>-0.994859447</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010df4</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001178b</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000AD">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.75818253</X>
+							<Y>-0.88753372</Y>
+							<Z>0.30776879</Z>
+							<R00>0.86935997</R00>
+							<R01>0.19306704</R01>
+							<R02>-0.45490482</R02>
+							<R10>-0.3049556</R10>
+							<R11>0.93394345</R11>
+							<R12>-0.1864181</R12>
+							<R20>0.38886419</R20>
+							<R21>0.30079019</R21>
+							<R22>0.87080991</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010df5</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001178c</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000AE">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.18629837</X>
+							<Y>-0.94582421</Y>
+							<Z>0.48015022</Z>
+							<R00>0.955989</R00>
+							<R01>0.12606262</R01>
+							<R02>0.26494041</R02>
+							<R10>-0.065499716</R10>
+							<R11>0.97189933</R11>
+							<R12>-0.22610055</R12>
+							<R20>-0.28599828</R20>
+							<R21>0.19879608</R21>
+							<R22>0.93738204</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010df6</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001178d</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX000000000000000000000000000000B0">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010df8</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.83333331</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001178f</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX000000000000000000000000000000B1">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010df9</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011790</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX000000000000000000000000000000B2">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dfa</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011791</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000B3">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.606551222</X>
+							<Y>0.758197631</Y>
+							<Z>0.850382788</Z>
+							<R00>-0.905791354</R00>
+							<R01>-0.423589245</R01>
+							<R02>0.0106852445</R02>
+							<R10>-0.422430465</R10>
+							<R11>0.900770083</R11>
+							<R12>-0.100825393</R12>
+							<R20>0.0330836035</R20>
+							<R21>-0.0958405423</R21>
+							<R22>-0.994846755</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dfb</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011792</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000B4">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.7572633</X>
+							<Y>-0.88570285</Y>
+							<Z>0.30775166</Z>
+							<R00>0.86885834</R00>
+							<R01>0.19452584</R01>
+							<R02>-0.45524162</R02>
+							<R10>-0.30635452</R10>
+							<R11>0.93361658</R11>
+							<R12>-0.18576108</R12>
+							<R20>0.38888574</R20>
+							<R21>0.30086541</R21>
+							<R22>0.87077433</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dfc</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011793</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000B5">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>0.069953948</X>
+							<Y>-0.96629947</Y>
+							<Z>0.48181731</Z>
+							<R00>0.95822996</R00>
+							<R01>0.10658894</R01>
+							<R02>0.26539466</R02>
+							<R10>-0.047599602</R10>
+							<R11>0.97445059</R11>
+							<R12>-0.21950062</R12>
+							<R20>-0.28201029</R20>
+							<R21>0.19769937</R21>
+							<R22>0.93882126</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dfd</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011794</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX000000000000000000000000000000B7">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010dff</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.86666667</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011796</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX000000000000000000000000000000B8">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e00</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011797</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX000000000000000000000000000000B9">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e01</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011798</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000BA">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.580510558</X>
+							<Y>0.76331346</Y>
+							<Z>0.756573786</Z>
+							<R00>-0.898717946</R00>
+							<R01>-0.438169674</R01>
+							<R02>-0.0177028579</R02>
+							<R10>-0.433353921</R10>
+							<R11>0.893574424</R11>
+							<R12>-0.11717136</R12>
+							<R20>0.0671597577</R20>
+							<R21>-0.0976324012</R21>
+							<R22>-0.992953917</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e02</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f86000011799</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000BB">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.75507736</X>
+							<Y>-0.88133633</Y>
+							<Z>0.3077125</Z>
+							<R00>0.86765313</R00>
+							<R01>0.19800226</R01>
+							<R02>-0.45604077</R02>
+							<R10>-0.30968729</R10>
+							<R11>0.93282741</R11>
+							<R12>-0.18419233</R12>
+							<R20>0.38893685</R20>
+							<R21>0.30104509</R21>
+							<R22>0.87068939</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e03</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001179a</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000BC">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.034732848</X>
+							<Y>-0.96397585</Y>
+							<Z>0.47868454</Z>
+							<R00>0.96367097</R00>
+							<R01>0.074006066</R01>
+							<R02>0.25663507</R02>
+							<R10>-0.015209467</R10>
+							<R11>0.97449267</R11>
+							<R12>-0.22390336</R12>
+							<R20>-0.2666592</R20>
+							<R21>0.21186584</R21>
+							<R22>0.94021589</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e04</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001179b</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX000000000000000000000000000000BE">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e06</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.89999998</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001179d</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX000000000000000000000000000000BF">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e07</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001179e</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX000000000000000000000000000000C0">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e08</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f8600001179f</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000C1">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.538139316</X>
+							<Y>0.770308949</Y>
+							<Z>0.694774526</Z>
+							<R00>-0.888731268</R00>
+							<R01>-0.456300315</R01>
+							<R02>-0.0441220577</R02>
+							<R10>-0.447128985</R10>
+							<R11>0.884038602</R11>
+							<R12>-0.136203601</R12>
+							<R20>0.101155348</R20>
+							<R21>-0.101320148</R21>
+							<R22>-0.989697844</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e09</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117a0</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000C2">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.75246429</X>
+							<Y>-0.87612474</Y>
+							<Z>0.30766496</Z>
+							<R00>0.86619824</R00>
+							<R01>0.20214766</R01>
+							<R02>-0.45698678</R02>
+							<R10>-0.31365913</R10>
+							<R11>0.93186849</R11>
+							<R12>-0.1823159</R12>
+							<R20>0.38899684</R20>
+							<R21>0.30125979</R21>
+							<R22>0.8705883</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e0a</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117a1</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000C3">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.11095427</X>
+							<Y>-0.9525432</Y>
+							<Z>0.47424406</Z>
+							<R00>0.96845227</R00>
+							<R01>0.041807517</R01>
+							<R02>0.24566719</R02>
+							<R10>0.017080024</R10>
+							<R11>0.97237235</R11>
+							<R12>-0.23280953</R12>
+							<R20>-0.24861316</R20>
+							<R21>0.22966091</R21>
+							<R22>0.9409821</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e0b</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117a2</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX000000000000000000000000000000C5">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e0d</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.93333334</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117a4</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX000000000000000000000000000000C6">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e0e</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117a5</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX000000000000000000000000000000C7">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e0f</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117a6</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000C8">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.511444383</X>
+							<Y>0.775781277</Y>
+							<Z>0.672812021</Z>
+							<R00>-0.881962361</R00>
+							<R01>-0.467685025</R01>
+							<R02>-0.058421832</R02>
+							<R10>-0.455667674</R10>
+							<R11>0.877776003</R11>
+							<R12>-0.147906255</R12>
+							<R20>0.120454823</R20>
+							<R21>-0.103826809</R21>
+							<R22>-0.987274344</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e10</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117a7</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000C9">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.75027853</X>
+							<Y>-0.87175828</Y>
+							<Z>0.30762482</Z>
+							<R00>0.86496556</R00>
+							<R01>0.20561753</R01>
+							<R02>-0.45777288</R02>
+							<R10>-0.31698191</R10>
+							<R11>0.93105066</R11>
+							<R12>-0.18074051</R12>
+							<R20>0.38904631</R20>
+							<R21>0.30144003</R21>
+							<R22>0.87050378</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e11</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117a8</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000CA">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.1419106</X>
+							<Y>-0.94569021</Y>
+							<Z>0.47198874</Z>
+							<R00>0.97076923</R00>
+							<R01>0.023562962</R01>
+							<R02>0.23885584</R02>
+							<R10>0.03533338</R10>
+							<R11>0.97029698</R11>
+							<R12>-0.23932269</R12>
+							<R20>-0.23740028</R20>
+							<R21>0.24076666</R21>
+							<R22>0.94110179</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e12</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117a9</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX000000000000000000000000000000CC">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e14</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.96666664</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117ab</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX000000000000000000000000000000CD">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e15</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117ac</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX000000000000000000000000000000CE">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e16</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117ad</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000CF">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.504657932</X>
+							<Y>0.780393705</Y>
+							<Z>0.673693735</Z>
+							<R00>-0.87915314</R00>
+							<R01>-0.472460389</R01>
+							<R02>-0.0622168552</R02>
+							<R10>-0.459543149</R10>
+							<R11>0.875098182</R11>
+							<R12>-0.151734197</R12>
+							<R20>0.126134255</R20>
+							<R21>-0.104806266</R21>
+							<R22>-0.986461249</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e17</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117ae</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000D0">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.74935925</X>
+							<Y>-0.86992735</Y>
+							<Z>0.30760863</Z>
+							<R00>0.86444491</R00>
+							<R01>0.20707171</R01>
+							<R02>-0.45810086</R02>
+							<R10>-0.31837398</R10>
+							<R11>0.93070382</R11>
+							<R12>-0.18007901</R12>
+							<R20>0.38906693</R20>
+							<R21>0.30151573</R21>
+							<R22>0.87046838</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e18</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117af</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000D1">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.14412314</X>
+							<Y>-0.94751382</Y>
+							<Z>0.47318947</Z>
+							<R00>0.97143734</R00>
+							<R01>0.018241636</R01>
+							<R02>0.23659454</R02>
+							<R10>0.040945355</R10>
+							<R11>0.96920073</R11>
+							<R12>-0.24284437</R12>
+							<R20>-0.2337375</R20>
+							<R21>0.24559548</R21>
+							<R22>0.94077086</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e19</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117b0</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX000000000000000000000000000000D3">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e1b</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">1</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117b2</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX000000000000000000000000000000D4">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e1c</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117b3</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX000000000000000000000000000000D5">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e1d</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117b4</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000D6">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.500373899</X>
+							<Y>0.786675704</Y>
+							<Z>0.674328124</Z>
+							<R00>-0.87651247</R00>
+							<R01>-0.477113227</R01>
+							<R02>-0.0639441876</R02>
+							<R10>-0.463674958</R10>
+							<R11>0.872487968</R11>
+							<R12>-0.154176128</R12>
+							<R20>0.129350004</R20>
+							<R21>-0.10548798</R21>
+							<R22>-0.985972039</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e1e</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117b5</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000D7">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.74935925</X>
+							<Y>-0.86992735</Y>
+							<Z>0.30760863</Z>
+							<R00>0.86444491</R00>
+							<R01>0.20707171</R01>
+							<R02>-0.45810086</R02>
+							<R10>-0.31837398</R10>
+							<R11>0.93070382</R11>
+							<R12>-0.18007901</R12>
+							<R20>0.38906693</R20>
+							<R21>0.30151573</R21>
+							<R22>0.87046838</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e1f</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117b6</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000D8">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.14546205</X>
+							<Y>-0.95186245</Y>
+							<Z>0.47605133</Z>
+							<R00>0.97183025</R00>
+							<R01>0.015256455</R01>
+							<R02>0.23518765</R02>
+							<R10>0.044571344</R10>
+							<R11>0.96799785</R11>
+							<R12>-0.24696876</R12>
+							<R20>-0.231429</R20>
+							<R21>0.25049436</R21>
+							<R22>0.94004959</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e20</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117b7</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX000000000000000000000000000000DA">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e22</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">1.0333333</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117b9</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX000000000000000000000000000000DB">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e23</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117ba</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX000000000000000000000000000000DC">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e24</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117bb</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000DD">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.498032034</X>
+							<Y>0.793092545</Y>
+							<Z>0.674763063</Z>
+							<R00>-0.874303606</R00>
+							<R01>-0.481099788</R01>
+							<R02>-0.0643132794</R02>
+							<R10>-0.467424189</R10>
+							<R11>0.870243028</R11>
+							<R12>-0.155536808</R12>
+							<R20>0.130796909</R20>
+							<R21>-0.10592481</R21>
+							<R22>-0.985734297</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e25</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117bc</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000DE">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.74935925</X>
+							<Y>-0.86992735</Y>
+							<Z>0.30760863</Z>
+							<R00>0.86444491</R00>
+							<R01>0.20707171</R01>
+							<R02>-0.45810086</R02>
+							<R10>-0.31837398</R10>
+							<R11>0.93070382</R11>
+							<R12>-0.18007901</R12>
+							<R20>0.38906693</R20>
+							<R21>0.30151573</R21>
+							<R22>0.87046838</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e26</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117bd</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000DF">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.14615247</X>
+							<Y>-0.95705283</Y>
+							<Z>0.47946829</Z>
+							<R00>0.97203314</R00>
+							<R01>0.013943128</R01>
+							<R02>0.23442943</R02>
+							<R10>0.046639714</R10>
+							<R11>0.96689045</R11>
+							<R12>-0.2508935</R12>
+							<R20>-0.23016582</R20>
+							<R21>0.25481051</R21>
+							<R22>0.93919927</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e27</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117be</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX000000000000000000000000000000E1">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e29</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">1.0666667</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117c0</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX000000000000000000000000000000E2">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e2a</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117c1</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX000000000000000000000000000000E3">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e2b</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117c2</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000E4">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.497052574</X>
+							<Y>0.798086665</Y>
+							<Z>0.675022636</Z>
+							<R00>-0.872786975</R00>
+							<R01>-0.483883889</R01>
+							<R02>-0.0640255992</R02>
+							<R10>-0.470148072</R10>
+							<R11>0.868669196</R11>
+							<R12>-0.15612373</R12>
+							<R20>0.131162823</R20>
+							<R21>-0.106161246</R21>
+							<R22>-0.985660237</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e2c</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117c3</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000E5">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.74935925</X>
+							<Y>-0.86992735</Y>
+							<Z>0.30760863</Z>
+							<R00>0.86444491</R00>
+							<R01>0.20707171</R01>
+							<R02>-0.45810086</R02>
+							<R10>-0.31837398</R10>
+							<R11>0.93070382</R11>
+							<R12>-0.18007901</R12>
+							<R20>0.38906693</R20>
+							<R21>0.30151573</R21>
+							<R22>0.87046838</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e2d</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117c4</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000E6">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.14640427</X>
+							<Y>-0.9614014</Y>
+							<Z>0.48233131</Z>
+							<R00>0.9721126</R00>
+							<R01>0.013640225</R01>
+							<R02>0.23411764</R02>
+							<R10>0.047574438</R10>
+							<R11>0.96607912</R11>
+							<R12>-0.25382644</R12>
+							<R20>-0.2296384</R20>
+							<R21>0.25788587</R21>
+							<R22>0.93848872</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e2e</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117c5</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX000000000000000000000000000000E8">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e30</UniqueId>
+				<string name="Name">Keyframe</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">1.1</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117c7</UniqueId>
+			</Properties>
+			<Item class="Pose" referent="RBX000000000000000000000000000000E9">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<CoordinateFrame name="CFrame">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<token name="EasingDirection">0</token>
+					<token name="EasingStyle">0</token>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e31</UniqueId>
+					<string name="Name">CameraModel3</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117c8</UniqueId>
+					<float name="Weight">0</float>
+				</Properties>
+				<Item class="IntValue" referent="RBX000000000000000000000000000000EA">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e32</UniqueId>
+						<string name="Name">Null</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117c9</UniqueId>
+						<int64 name="Value">0</int64>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000EB">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.49685439</X>
+							<Y>0.800095015</Y>
+							<Z>0.675105437</Z>
+							<R00>-0.872223798</R00>
+							<R01>-0.484931187</R01>
+							<R02>-0.063776088</R02>
+							<R10>-0.471200452</R10>
+							<R11>0.868076194</R11>
+							<R12>-0.156249339</R12>
+							<R20>0.131132681</R20>
+							<R21>-0.106233071</R21>
+							<R22>-0.985656509</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e33</UniqueId>
+						<string name="Name">CameraModel6</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117ca</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000EC">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.74935925</X>
+							<Y>-0.86992735</Y>
+							<Z>0.30760863</Z>
+							<R00>0.86444491</R00>
+							<R01>0.20707171</R01>
+							<R02>-0.45810086</R02>
+							<R10>-0.31837398</R10>
+							<R11>0.93070382</R11>
+							<R12>-0.18007901</R12>
+							<R20>0.38906693</R20>
+							<R21>0.30151573</R21>
+							<R22>0.87046838</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e34</UniqueId>
+						<string name="Name">CameraModel1</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117cb</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+				<Item class="Pose" referent="RBX000000000000000000000000000000ED">
+					<Properties>
+						<BinaryString name="AttributesSerialize" />
+						<CoordinateFrame name="CFrame">
+							<X>-0.14644247</X>
+							<Y>-0.96322501</Y>
+							<Z>0.483531</Z>
+							<R00>0.97212678</R00>
+							<R01>0.013686393</R01>
+							<R02>0.23405637</R02>
+							<R10>0.047793884</R10>
+							<R11>0.96576458</R11>
+							<R12>-0.25497934</R12>
+							<R20>-0.22953314</R20>
+							<R21>0.25905871</R21>
+							<R22>0.93819141</R22>
+						</CoordinateFrame>
+						<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+						<bool name="DefinesCapabilities">false</bool>
+						<token name="EasingDirection">0</token>
+						<token name="EasingStyle">0</token>
+						<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e35</UniqueId>
+						<string name="Name">CameraModel2</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<BinaryString name="Tags" />
+						<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117cc</UniqueId>
+						<float name="Weight">1</float>
+					</Properties>
+				</Item>
+			</Item>
+		</Item>
+		<Item class="Keyframe" referent="RBX000000000000000000000000000000EF">
+			<Properties>
+				<BinaryString name="AttributesSerialize" />
+				<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+				<bool name="DefinesCapabilities">false</bool>
+				<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e37</UniqueId>
+				<string name="Name">Equip</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<BinaryString name="Tags" />
+				<float name="Time">0.050000001</float>
+				<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117ce</UniqueId>
+			</Properties>
+			<Item class="KeyframeMarker" referent="RBX000000000000000000000000000000F0">
+				<Properties>
+					<BinaryString name="AttributesSerialize" />
+					<SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+					<bool name="DefinesCapabilities">false</bool>
+					<UniqueId name="HistoryId">f2ba46482a6929e808c0f86000010e38</UniqueId>
+					<string name="Name">Equip</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<BinaryString name="Tags" />
+					<UniqueId name="UniqueId">f2ba46482a6929e808c0f860000117cf</UniqueId>
+					<string name="Value">Equip</string>
+				</Properties>
+			</Item>
+		</Item>
+	</Item>
+</roblox>
